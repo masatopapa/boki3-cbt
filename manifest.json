@@ -1,0 +1,16 @@
+{
+  "name": "簿記3級 ネット試験練習",
+  "short_name": "簿記3級",
+  "description": "日商簿記3級のネット試験（CBT）と同じ操作で解く練習。仕訳ドリル・第2問・第3問の個別練習と、60分の模試。",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f5f1",
+  "theme_color": "#1e6b4b",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
